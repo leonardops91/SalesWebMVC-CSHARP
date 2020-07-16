@@ -1,0 +1,131 @@
+[33mcommit e9eac80db553fd9085714b1510108b50e68fe542[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Wed Jul 15 17:16:43 2020 -0300
+
+    Exception handling for delete (referential integrity)
+
+[33mcommit c61dd774736e74f505b249bd139f6da6e66d9014[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Wed Jul 15 16:56:09 2020 -0300
+
+    Asynchronous operations using Tasks (async, await)
+
+[33mcommit 75b40f797aee5b6a17d11621b93fe62b1e172879[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Tue Jul 14 22:05:41 2020 -0300
+
+    Validation
+
+[33mcommit d71fce8a08711b16b2830447643c95fa1a8d0eeb[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Tue Jul 14 21:39:55 2020 -0300
+
+    App locale, number and date formatting
+
+[33mcommit 3c4eafa622692f25e993461f3b7608bd3e40f01b[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Sat Jul 11 18:02:19 2020 -0300
+
+    Returning custom error page
+
+[33mcommit c14a3dd90c1ca833bf90780fac2903163f15464d[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Sat Jul 11 17:42:26 2020 -0300
+
+    Update seller and custom service exception
+
+[33mcommit 58ae8159195392e85ce2dc6d7f72461ee72d7575[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Sat Jul 11 17:14:16 2020 -0300
+
+    Seller details and eager loading
+
+[33mcommit 27f49b531d64e2fbcd05b2c963e49913c0f8499e[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Sat Jul 11 16:53:55 2020 -0300
+
+    Delete seller
+
+[33mcommit 8f0e5f1b816b13e2d19b175bb5e42849723cf36c[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Thu Jul 9 22:20:51 2020 -0300
+
+    SellerFormViewModel and Department select component
+
+[33mcommit 9a68cea781d2d6bf4b1740632e5f71b609f9990b[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Thu Jul 9 20:24:48 2020 -0300
+
+    Foreign key not null (referential integrity)
+
+[33mcommit e6fed5226e4d5fc170c77ddc70854aec2e457de7[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Wed Jul 8 20:30:43 2020 -0300
+
+    Simple Create form
+
+[33mcommit 6ad128947cc5d33336e5b749d8d45c13a94c6446[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Wed Jul 8 19:42:14 2020 -0300
+
+    SellerService and basic FindAll
+
+[33mcommit f28267591569f7df04c623a0c0f4487d519a75d9[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Wed Jul 8 19:05:03 2020 -0300
+
+    SellersController
+
+[33mcommit c6431d0a61e8144d2b07b4073ef323bbae0e8758[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Wed Jul 8 11:26:49 2020 -0300
+
+    Seeding service
+
+[33mcommit 88d45652e7dbbf02e83f1b62681eafe5b2f8b191[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Mon Jul 6 23:08:44 2020 -0300
+
+    Other entities and second migration
+
+[33mcommit 0624c7b2b6f8cfde835da18e2018c70f39127a54[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Mon Jul 6 18:58:35 2020 -0300
+
+    Changing theme
+
+[33mcommit 9e62962fde30b00c80b413aba323d4257040384b[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Mon Jul 6 16:49:33 2020 -0300
+
+    MySQL adaptation and first migration
+
+[33mcommit 6a8f4ca478cf18ba9175df4af9fe3c5cfe1a323a[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Mon Jul 6 15:15:48 2020 -0300
+
+    CRUD Scaffolding
+
+[33mcommit 6cface47d759227caeb63c11babcf566342a6448[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Mon Jul 6 15:10:28 2020 -0300
+
+    Deleting Department view and controller
+
+[33mcommit aa3c96a1e6b7031621335b7b2ffb606eee1fd900[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Mon Jul 6 14:47:58 2020 -0300
+
+    First Model-Controller-View - Department
+
+[33mcommit cc2cb86bd26651daeb0f7651678b218d498fcf9d[m
+Author: Leonardo <leonardops91@gmail.com>
+Date:   Sat Jul 4 18:12:39 2020 -0300
+
+    projeto criado
+
+[33mcommit e7788aa2baba1ada68a776d6ddc3b7b2b2bd27b4[m
+Author: leonardops91 <55004732+leonardops91@users.noreply.github.com>
+Date:   Sat Jul 4 18:08:12 2020 -0300
+
+    Initial commit
